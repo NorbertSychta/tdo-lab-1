@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 "Zmiana z folderu A" 
+=======
+"Inna zmiana z folderu B" 
+>>>>>>> f3f3ba20ee2047bd3c09a01b5832efca9b94dcb0
