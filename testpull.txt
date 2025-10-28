@@ -1,1 +1,1 @@
-"Plik testowy do sprawdzenia pulla." 
+"Zmiana z folderu A" 
